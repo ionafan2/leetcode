@@ -1,0 +1,14 @@
+{
+  "name": "ionafan2-leetcode",
+  "version": "1.0.0",
+  "description": "Studying and Solutions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionafan2/leetcode.git"
+  },
+  "author": "Pavlo Cherniavskyi",
+  "bugs": {
+    "url": "https://github.com/ionafan2/leetcode/issues"
+  },
+  "homepage": "https://github.com/ionafan2/leetcode#readme"
+}
