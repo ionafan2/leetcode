@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/ionafan2/leetcode/issues"
   },
-  "homepage": "https://github.com/ionafan2/leetcode#readme"
+  "homepage": "https://github.com/ionafan2/leetcode#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
