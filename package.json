@@ -2,6 +2,7 @@
   "name": "ionafan2-leetcode",
   "version": "1.0.0",
   "description": "Studying and Solutions",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ionafan2/leetcode.git"
